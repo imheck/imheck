@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @lucas_heck
-- 👀 I’m interested in know how this works
-- 🌱 I’m currently learning date sciense on DNC school 
-- 💞️ I’m looking to collaborate on projects that make our lives better 
-- ⚡ Fun fact: im introvert but im look as extrovert
+
